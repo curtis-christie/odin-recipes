@@ -1,0 +1,23 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    list-style: square;
+    margin: 10px auto 10px auto;
+}
+
+li {
+    border: 2px solid blue;
+    margin-bottom: 5px;
+}
+
+li a {
+    text-decoration: none;
+}
