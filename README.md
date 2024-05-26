@@ -1,2 +1,3 @@
 # Creating a recipes site with the aid of The Odin Project. Will touch base when I have completed the site.
 # Editing the markdown file for practice committing
+# Started to implement flex positioning for practice. Positioning this way is way easier than flow layout. Thinking of layouts as algorithms or layout modes has really helped. Each layout mode solves specific problems. This has greatly improved my understanding of how a webpage is laid out.
